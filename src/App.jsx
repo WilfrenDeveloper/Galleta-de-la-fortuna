@@ -3,7 +3,7 @@ import getRandomFromArr from "./services/getRandomFromArr.js"
 import phrases from "./utils/phrases.json"
 import Phrase from "./components/Phrase.jsx"
 import ButtonPhrase from "./components/ButtonPhrase.jsx"
-import imageFondo from "./utils/images.json"
+import imageFondo from "../src/utils/images.json"
 import ImagesFondo from "./components/ImagesFondo.jsx"
 import "./components/style.css"
 function App() {

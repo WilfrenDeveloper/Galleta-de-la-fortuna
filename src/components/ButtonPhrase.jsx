@@ -1,6 +1,6 @@
 import getRandomFromArr from "../services/getRandomFromArr.js"
 import phrases from '../utils/phrases.json'
-import imageFondo from "../utils/images.json"
+import imageFondo from "../../src/utils/images.json"
 
 const ButtonPhrase = ({setPhraseRandom, setImage}) => {
 
