@@ -1,14 +1,14 @@
 [
     {
-        "image":"../../public/images/fondo1.jpg"
+        "image":"../fondo1.jpg"
     },
     {
-        "image":"../../public/images/fondo2.jpg"
+        "image":"../fondo2.jpg"
     },
     {
-        "image":"../../public/images/fondo3.jpg"
+        "image":"../fondo3.jpg"
     },
     {
-        "image":"../../public/images/fondo4.jpg"
+        "image":"../fondo4.jpg"
     }
 ]
