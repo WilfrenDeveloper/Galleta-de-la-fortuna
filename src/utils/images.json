@@ -1,14 +1,14 @@
 [
     {
-        "image":"../../src/assets/images/fondo1.jpg"
+        "image":"../../public/images/fondo1.jpg"
     },
     {
-        "image":"../../src/assets/images/fondo2.jpg"
+        "image":"../../public/images/fondo2.jpg"
     },
     {
-        "image":"../../src/assets/images/fondo3.jpg"
+        "image":"../../public/images/fondo3.jpg"
     },
     {
-        "image":"../../src/assets/images/fondo4.jpg"
+        "image":"../../public/images/fondo4.jpg"
     }
 ]
